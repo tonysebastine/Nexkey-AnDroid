@@ -1,0 +1,7 @@
+{
+  "name": "PhoneUnlock",
+  "description": "Securely unlock your Windows PC using Android biometrics and Bluetooth, featuring hardware-backed keys and no cloud dependency.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
